@@ -1,2 +1,2 @@
-# Analise_de_dados_python
-Projeto feito durante a semana "Jornada Python" da empresa Hashtag. O código foi feito em conjunto ao professor durante uma aula ao vivo; os dados, ficticios, foram proporcionados pela hashtag.
+# data_analysis_python
+This project was developed during a Python program offered by the educational institution 'Hashtag.' The code was collaboratively created with the instructor during class sessions, focusing on analyzing the reasons for a company's declining subscriptions. All data presented is entirely fictitious and intended solely for educational purposes.
